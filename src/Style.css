@@ -1,0 +1,10 @@
+.container {
+    /* Set background image */
+    background-image: url('C:\Users\Shaik\Pictures\Screenshots\home.jpg.png');
+    
+    /* Adjust background image properties as needed */
+    background-size: cover;
+    background-position: center;
+    /* Other background properties like repeat, attachment, etc. */
+  }
+  
